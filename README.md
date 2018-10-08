@@ -4,10 +4,10 @@ A script that will calculate the value of Pi to a set number of decimal places, 
 Equation from Chudnovsky Algorithm
 https://en.wikipedia.org/wiki/Chudnovsky_algorithm
 
-Required:
+Installation:
 
 pip install colorama
 
+Note:
 
-
-
+Try with only maximum of 1000 decimal places
